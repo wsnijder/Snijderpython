@@ -7,3 +7,4 @@ calculated_answer = ask_user + 2
 #give output
 print (ask_user + 2)
 
+6
